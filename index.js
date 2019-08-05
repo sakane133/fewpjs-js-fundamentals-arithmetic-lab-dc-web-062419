@@ -8,3 +8,5 @@ const multiply = num1 * num2;
 const random = Math.floor(Math.random() * 10) + 1;
 
 const mod = 19 % 5;
+
+Math.max(1, 2, 3, 20, 7);
