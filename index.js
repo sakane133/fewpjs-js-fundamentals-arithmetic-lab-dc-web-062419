@@ -7,4 +7,4 @@ const multiply = num1 * num2;
 
 const random = Math.floor(Math.random() * 10) + 1;
 
-cosnt
+const mod = 19 % 5
